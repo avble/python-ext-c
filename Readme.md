@@ -14,5 +14,10 @@ PyObject * helloworld(PyObject * self) {
 }
 ```
 
+# how to build
+visit either ex1 or ex2, etc. And execute the following commands
+``` bash
+$ make
+```
 # Reference
 [1] https://docs.python.org/3/extending/building.html
